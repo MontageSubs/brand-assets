@@ -2,15 +2,15 @@
 
 蒙太奇字幕组（MontageSubs）的标志及各版本资源。
 
-<div align="center">
-
-![MontageSubs Logo](./png/app/logo-128.png)
-
-</div><br/>
-
 <div align="right">
 
 **中文 | [English](./README.md)**
+
+</div><br/>
+
+<div align="center">
+
+![MontageSubs Logo](./png/app/logo-128.png)
 
 </div><br/>
 
