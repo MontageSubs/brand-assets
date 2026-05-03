@@ -23,5 +23,5 @@ venv/
 *.swp
 *~
 
-# Anthropic / Claude session files (if any)
+# Anthropic / Claude session files & tool caches
 .claude/
