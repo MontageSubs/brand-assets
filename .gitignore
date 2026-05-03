@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+._*
+
+# Build / QA artifacts (regenerable, not deliverables)
+preview/
+preview/thumbs/
+preview/thumbs/**
+preview/zooms/
+preview/zooms-v3/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*~
+
+# Tool / session caches
+.claude/
