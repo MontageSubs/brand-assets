@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![MontageSubs Logo](./png/app/logo-128.png)
+![MontageSubs Logo](./png/app/rounded/compressed/logo-128.png)
 
 </div><br/>
 
