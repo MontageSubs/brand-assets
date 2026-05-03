@@ -8,17 +8,21 @@
 
 </div><br/>
 
-The logo for this project is derived from a street photography work on the Unsplash platform.
+The logo for this organization is derived from a street photography work on the Unsplash platform.
 
 | Information | Details |
 |-------------|---------|
 | **Title** | The letter m is lit up in the dark |
-| **Photographer** | [Zacharie Elbaz](https://unsplash.com/@zacharie_elbaz) |
+| **Photographer** | [Zacharie Elbaz](https://unsplash.com/@zachlba) |
 | **Location** | Paris, France |
 | **Published Date** | October 22, 2024 |
 | **Original Link** | https://unsplash.com/photos/the-letter-m-is-lit-up-in-the-dark-GejUCxKwAUw |
 
-## The Symbolism of This Image in the Project
+## About MontageSubs
+
+MontageSubs is a non-profit online subtitle community dedicated to connecting filmmakers, subtitle creators, and audiences worldwide.
+
+## The Symbolism of This Image in the Organization
 
 This is a street photography work with distinctive artistic qualities. Its iconic yellow neon M letterbox and black background perfectly embody the brand identity of MontageSubs:
 
@@ -29,10 +33,10 @@ This is a street photography work with distinctive artistic qualities. Its iconi
 
 ## Adaptation & Processing
 
-The original photograph has been processed in the following ways to serve as the project logo:
+The original photograph has been processed in the following ways to serve as the organization's logo:
 
 - Removed the background while preserving the M letter element
-- Adjusted and optimized colors according to brand requirements
+- Adjusted and optimized colors according to organizational requirements
 - Generated multiple formats and resolutions for various application scenarios
 
 ## License
@@ -49,3 +53,4 @@ For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file
 "Powered by Love ❤️ 用爱发电"
 
 </div>
+
