@@ -2,15 +2,15 @@
 
 Brand assets and logo resources for MontageSubs.
 
-<div align="center">
-
-![MontageSubs Logo](./png/app/logo-128.png)
-
-</div><br/>
-
 <div align="right">
 
 **[中文](./README.zh-hans.md) | English**
+
+</div><br/>
+
+<div align="center">
+
+![MontageSubs Logo](./png/app/logo-128.png)
 
 </div><br/>
 
