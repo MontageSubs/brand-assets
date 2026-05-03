@@ -73,7 +73,7 @@ Original assets and license documentation, including photographer Zacharie Elbaz
 
 Content in the **`source/` directory** is licensed under the [Unsplash License](./source/LICENSE.md).
 
-All files in this directory **except those in `source/`** are licensed under [**CC BY-NC-SA 4.0**](./LICENSE). You are free to share and adapt these works provided you give attribution, use them non-commercially, and apply the same license to derivative works. See the [license file](./LICENSE) for full details.
+All files in this directory **except those in `source/`** are licensed under [**CC BY-NC-SA 4.0**](./LICENSE). You are free to share and adapt these works provided you give attribution, use them non-commercially, and apply the same license to derivative works. See the [LICENSE  file](./LICENSE) for full details.
 
 
 ---
