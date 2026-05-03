@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  MontageSubs · M mark · flat mono
+  Geometry: Paris Métro "M" — vertical legs + inner V, three feet on a common baseline.
+  Stroke-based zigzag, scales to any size, single path, ~1KB.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="MontageSubs M">
+  <title>MontageSubs M</title>
+  <path d="M 210 800 L 210 224 L 512 800 L 814 224 L 814 800"
+        fill="none"
+        stroke="#1A1410"
+        stroke-width="124"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>

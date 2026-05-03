@@ -1,6 +1,6 @@
-# Logos
+# logos/
 
-Brand assets and logo resources for MontageSubs.
+Core logo files. Top-level guide: [`../README.md`](../README.md). Full brand spec: [`../guidelines/BRAND.md`](../guidelines/BRAND.md).
 
 <div align="right">
 
@@ -8,86 +8,85 @@ Brand assets and logo resources for MontageSubs.
 
 </div><br/>
 
-<div align="center">
+## Quick reference
 
-![MontageSubs Logo](./png/app/rounded/compressed/logo-128.png)
+| Want | File |
+|---|---|
+| Dark page · video · OS dark icon | [`master/m-mark-dark.png`](master/m-mark-dark.png) |
+| Light page · web hero · light docs | [`master/m-mark-light.png`](master/m-mark-light.png) |
+| Round social avatar | [`master/m-mark-light-circle.png`](master/m-mark-light-circle.png) |
+| Hard square (print, signage) | [`master/m-mark-light-square.png`](master/m-mark-light-square.png) |
+| Browser favicon set | [`favicon/`](favicon/) |
+| Mono single-color (embroidery, etching) | [`mono/`](mono/) |
+| Wordmark lockup (M + 蒙太奇字幕组 / MontageSubs) | [`lockup/`](lockup/) |
+| Hi-res raster exports | [`png/`](png/) |
+| Original photo + license | [`source/`](source/) |
 
-</div><br/>
+## Subdirectory map
 
-This directory contains the organizational logo of MontageSubs in multiple formats and variations, available for use by community members, contributors, and external partners.
+### `master/` — locked master logos
 
+The canonical brand logos. Everything downstream derives from these.
 
-## Quick Reference
+- **`m-mark-dark.png`** — source photo at native 2924px resolution, centered on a 2560×2560 deep-ink (`#0E0B07`) canvas, **zero post-processing** ("RAW"). The brand.
+- **`m-mark-light.png`** — default light master = M inside a deep rounded-square token, on warm cream (`#FAF7EE`). Same as `m-mark-light-rounded.png`.
+- **`m-mark-light-{rounded,circle,square}.png`** — three token shapes for different light contexts.
+- **`m-mark-transparent.png`** — M on alpha background (no bg fill); for compositing into custom layouts.
+- **`m-geom-base.svg`** — smoothed M geometry (Catmull-Rom path, ~5KB d-string). Used as the source for the mono variants and the animated logo.
 
-| Purpose | Recommended Format | Size Range | Location |
-|---------|-------------------|-----------|----------|
-| Website favicon | PNG | 16–256 px | [favicon/](./favicon) |
-| App icon | PNG | 128–2048 px | [png/app/](./png/app) |
-| Social media & web | PNG or SVG | 200–1200 px | [png/web/](./png/web) or [svg/](./svg) |
-| High-quality print & large displays | SVG or high-resolution PNG | 2924 px | [svg/](./svg) or [png/hires/](./png/hires) |
-| Unlimited scalability | SVG | Any | [svg/](./svg) |
+Every PNG ships with a same-name `.svg` wrapper that embeds the PNG as base64, so the SVG is self-contained (one file, no external resources).
 
-## Selection Guide
+### `mono/` — single-color vector variants
 
-**PNG format** delivers high-fidelity visual quality and is ideal for fixed-size applications. **SVG format** supports unlimited lossless scaling and is perfect for responsive design, dynamic applications, and flexible layouts. For general use, PNG is recommended unless special requirements apply.
+Ten SVG variants of the M silhouette for contexts where photographic gradient is impossible (embroidery, single-color printing, laser etching, fax, very small UI).
 
-## The Story Behind Our Logo
+```
+m-mono-black.svg            ink (#1A1410) on transparent
+m-mono-white.svg            white on transparent
+m-mono-yellow.svg           brand yellow (#FBC100) on transparent
+m-mono-true-black.svg       true black (#000000) for print/embroidery
 
-MontageSubs is a **non-profit online subtitle community** founded in August 2025, dedicated to connecting filmmakers, subtitle creators, and audiences worldwide. Our logo draws inspiration from the iconic Paris Metro entrance signage. The distinctive yellow M letterbox was adopted by RATP (Régie Autonome des Transports Parisiens) in the 1970s [[1]](https://www.ratp.fr/en/discover/coulisses/daily-life/do-you-know-how-paris-metro-signposts-have-evolved); as it does not meet the threshold of originality required for copyright protection, this logo is in the public domain [[2]](https://commons.wikimedia.org/wiki/File:Metro-M.svg).
+m-mono-yellow-on-ink.svg    pre-composed: yellow M on deep-ink tile
+m-mono-ink-on-mist.svg      pre-composed: ink M on mist tile
+m-mono-white-on-ink.svg     pre-composed: white M on deep-ink tile
+m-mono-black-on-mist.svg    pre-composed: true black M on mist tile
 
-Photographer [Zacharie Elbaz](https://unsplash.com/@zachlba) captured this image on the streets of Paris on October 22, 2024, and shared it on [Unsplash](https://unsplash.com/photos/the-letter-m-is-lit-up-in-the-dark-GejUCxKwAUw) under the [Unsplash License](./source/LICENSE.md). The original work is preserved in the [source directory](./source). Founder Meow P adapted this image as the community avatar in late September 2025, and completed comprehensive optimization on May 3, 2026, including precise cropping, noise reduction, detail enhancement, background refinement, vectorization, and multi-color variants.
+m-mono-knockout-yellow.svg  yellow tile with M cut out (transparent M)
+m-mono-knockout-ink.svg     ink tile with M cut out
+```
 
-This street photography perfectly embodies MontageSubs' brand identity:
+### `lockup/` — wordmark lockups
 
-- **M** represents the first letter of Montage, with implicit reference to Movie
-- **Golden luminescence** symbolizes light and brilliance emerging from darkness, embodying the value and significance of subtitles
-- **Black background** evokes the cinematic aesthetic and professional atmosphere of film and television production
-- **Neon aesthetics** convey distinctive artistic tension, endowing the organization with strong visual character
+Four lockup combinations: `{horizontal, stacked} × {dark, light}`. Each lockup has three text layers (English / Chinese / tagline). PNGs at print resolution; SVG wrappers self-contained.
 
-## Directory Guide
+### `favicon/` — favicon family
 
-### [favicon/](./favicon)
+- 11 PNG sizes: 16, 32, 48, 64, 96, 128, 180, 192, 256, 384, 512
+- `favicon.ico` (multi-resolution: 16/32/48)
+- `apple-touch-icon.png` (180px)
+- `manifest.webmanifest` for PWA
+- `html-snippet.html` — copy-paste snippet for `<head>`
 
-Browser favicons available in two variant series:
+### `png/` — raster exports at common sizes
 
-- **default/** — Standard version with white background (16–256 px, ICO and PNG formats)
-- **transparent/** — Transparent background version (16–256 px, ICO and PNG formats)
+Derived from the master files. Use these when you don't need SVG.
 
-### [png/](./png)
+```
+png/app/    128 / 180 / 192 / 256 / 384 / 512 / 1024 / 2048    (dark master)
+png/web/    200 / 400 / 600 / 800 / 1200 / 1600                (dark master)
+            + matching logo-light-{size}.png variants            (rounded token)
+png/hires/  logo-{black,light,transparent}-2560.png             (master at full size)
+            + archived logo-*-2924.png from original source
+```
 
-Raster image formats optimized for digital applications:
+### `source/` — original asset + license
 
-- **app/** — App icons in original and compressed-optimized variants (128–2048 px)
-- **hires/** — Highest resolution version (2924 px) with three color variants: black, white, and transparent backgrounds
-- **web/** — Web-optimized version (200–1200 px)
+Don't modify these. They are the brand origin:
 
-### [svg/](./svg)
-
-Vector format supporting unlimited lossless scalability, available in multiple design variants:
-
-- **logo-abstract.svg** — Abstract minimalist variant that preserves the core shape and symbolism, abstracted for versatility across different use cases
-- **logo-detailed-black.svg** — High-fidelity black variant converted from `png/hires/logo-black-2924.png`; larger file size and may exhibit conversion artifacts at extreme zoom levels
-- **logo-detailed-transparent.svg** — High-fidelity transparent background variant converted from `png/hires/logo-transparent-2924.png`; larger file size and may exhibit conversion artifacts at extreme zoom levels
-- **logo-outline-black.svg** — Black outline variant containing only the M shape; ideal for minimalist modern design
-- **logo-outline-gray.svg** — Gray outline variant containing only the M shape; designed for light background themes
-- **logo-outline-stroke.svg** — Stroke-only variant with hollow design; suitable for scenarios requiring visual transparency
-
-### [source/](./source)
-
-Original assets and license documentation, including photographer Zacharie Elbaz's original work (original.jpg), source file notes, and license information.
-
-## License
-
-Content in the **`source/` directory** is licensed under the [Unsplash License](./source/LICENSE.md).
-
-All files in this directory **except those in `source/`** are licensed under [**CC BY-NC-SA 4.0**](./LICENSE). You are free to share and adapt these works provided you give attribution, use them non-commercially, and apply the same license to derivative works. See the [LICENSE  file](./LICENSE) for full details.
-
+- `original.jpg` — Zacharie Elbaz's Unsplash photo
+- `LICENSE.md` — Unsplash License
+- `README.md` / `README.zh-hans.md` — provenance
 
 ---
 
-<div align="center">
-
-**MontageSubs (蒙太奇字幕组)**  
-"Powered by Love ❤️ 用爱发电"
-
-</div>
+For detailed clearspace, min-size, misuse rules, and color tokens, see [`../guidelines/`](../guidelines/).
