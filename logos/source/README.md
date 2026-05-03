@@ -2,6 +2,12 @@
 
 ## Original Source
 
+<div align="right">
+
+**[中文](./README.zh-hans.md) | English**
+
+</div><br/>
+
 The logo for this project is derived from a street photography work on the Unsplash platform.
 
 | Information | Details |
@@ -33,7 +39,7 @@ The original photograph has been processed in the following ways to serve as the
 
 This logo is based on the original photograph and is released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. Significantly modified versions can be used freely without mandatory attribution to the original photographer.
 
-For the complete license terms, please refer to the [LICENSE](./LICENSE) file.
+For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file.
 
 ---
 
