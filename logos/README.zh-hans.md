@@ -22,7 +22,7 @@
 
 ## Logo 背景故事
 
-蒙太奇字幕组是一个**非营利性的在线字幕社区**，成立于 2025 年 8 月，致力于连接影视创作者、字幕创作者与全球观众。本 Logo 最初源于巴黎地铁入口标志。黄色 M 灯箱由 RATP（巴黎大众运输公司）于 1970 年代采用 [[1]](https://www.ratp.fr/en/discover/coulisses/daily-life/do-you-know-how-paris-metro-signposts-have-evolved)。由于其简洁的形状，已被列为公有领域。
+蒙太奇字幕组是一个**非营利性的在线字幕社区**，成立于 2025 年 8 月，致力于连接影视创作者、字幕创作者与全球观众。本 Logo 最初源于巴黎地铁入口标志。黄色 M 灯箱由 RATP（巴黎大众运输公司）于 1970 年代采用 [[1]](https://www.ratp.fr/en/discover/coulisses/daily-life/do-you-know-how-paris-metro-signposts-have-evolved)。由于不满足版权保护所需的原创性阈值，该标志属于公有领域 [[2]](https://commons.wikimedia.org/wiki/File:Metro-M.svg)。
 
 摄影师 [Zacharie Elbaz](https://unsplash.com/@zachlba) 于 2024 年 10 月 22 日在巴黎街头拍摄了这张作品，发布在 [Unsplash](https://unsplash.com/photos/the-letter-m-is-lit-up-in-the-dark-GejUCxKwAUw)，采用 [Unsplash License](./source/LICENSE.md)。原始作品保存在 [source 目录](./source)。创始人小 p 于 2025 年 9 月下旬将该作品裁剪后用作社群头像，并于 2026 年 5 月 3 日进行了完整优化处理，包括精细裁剪、降噪修复、细节提升、背景处理、矢量化和多色版本等工作。
 
