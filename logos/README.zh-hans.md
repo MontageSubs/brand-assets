@@ -2,6 +2,12 @@
 
 蒙太奇字幕组（MontageSubs）的标志及各版本资源。
 
+<div align="center">
+
+![MontageSubs Logo](./png/app/logo-128.png)
+
+</div><br/>
+
 <div align="right">
 
 **中文 | [English](./README.md)**
@@ -19,6 +25,10 @@
 | 社交媒体、网页 | PNG 或 SVG | 200–1200 px | [png/web/](./png/web) 或 [svg/](./svg) |
 | 高质量印刷或大幅展示 | SVG 或高分辨率 PNG | 2924 px | [svg/](./svg) 或 [png/hires/](./png/hires) |
 | 缩放无限制 | SVG | 任意 | [svg/](./svg) |
+
+## 选择建议
+
+**PNG 格式**提供高保真的视觉效果，适合尺寸已确定的应用场景。**SVG 格式**支持任意无损缩放，适合响应式设计、动态应用和需要灵活适配的场景。如无特殊要求，建议优先采用 PNG 版本。
 
 ## Logo 背景故事
 
@@ -64,10 +74,6 @@
 ### [source/](./source)
 
 原始资源和许可证文档。包含摄影师 Zacharie Elbaz 的原始作品（original.png）、源文件说明和许可证信息。
-
-## 选择建议
-
-**PNG 格式**提供高保真的视觉效果，适合尺寸已确定的应用场景。**SVG 格式**支持任意无损缩放，适合响应式设计、动态应用和需要灵活适配的场景。如无特殊要求，建议优先采用 PNG 版本。
 
 ## 许可证
 
