@@ -2,6 +2,12 @@
 
 Brand assets and logo resources for MontageSubs.
 
+<div align="center">
+
+![MontageSubs Logo](./png/app/logo-128.png)
+
+</div><br/>
+
 <div align="right">
 
 **[中文](./README.zh-hans.md) | English**
@@ -9,6 +15,7 @@ Brand assets and logo resources for MontageSubs.
 </div><br/>
 
 This directory contains the organizational logo of MontageSubs in multiple formats and variations, available for use by community members, contributors, and external partners.
+
 
 ## Quick Reference
 
@@ -19,6 +26,10 @@ This directory contains the organizational logo of MontageSubs in multiple forma
 | Social media & web | PNG or SVG | 200–1200 px | [png/web/](./png/web) or [svg/](./svg) |
 | High-quality print & large displays | SVG or high-resolution PNG | 2924 px | [svg/](./svg) or [png/hires/](./png/hires) |
 | Unlimited scalability | SVG | Any | [svg/](./svg) |
+
+## Selection Guide
+
+**PNG format** delivers high-fidelity visual quality and is ideal for fixed-size applications. **SVG format** supports unlimited lossless scaling and is perfect for responsive design, dynamic applications, and flexible layouts. For general use, PNG is recommended unless special requirements apply.
 
 ## The Story Behind Our Logo
 
@@ -64,10 +75,6 @@ Vector format supporting unlimited lossless scalability, available in multiple d
 ### [source/](./source)
 
 Original assets and license documentation, including photographer Zacharie Elbaz's original work (original.png), source file notes, and license information.
-
-## Selection Recommendations
-
-**PNG format** delivers high-fidelity visual quality and is ideal for fixed-size applications. **SVG format** supports unlimited lossless scaling and is perfect for responsive design, dynamic applications, and flexible layouts. For general use, PNG is recommended unless special requirements apply.
 
 ## License
 
