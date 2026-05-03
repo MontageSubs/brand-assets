@@ -10,7 +10,7 @@ Brand assets and logo resources for MontageSubs.
 
 <div align="center">
 
-![MontageSubs Logo](./png/app/logo-128.png)
+![MontageSubs Logo](./png/app/rounded/compressed/logo-128.png)
 
 </div><br/>
 
@@ -50,27 +50,27 @@ This street photography perfectly embodies MontageSubs' brand identity:
 
 Browser favicons available in two variant series:
 
-- **default/**—Standard version with white background (16–256 px, ICO and PNG formats)
-- **transparent/**—Transparent background version (16–256 px, ICO and PNG formats)
+- **default/** — Standard version with white background (16–256 px, ICO and PNG formats)
+- **transparent/** — Transparent background version (16–256 px, ICO and PNG formats)
 
 ### [png/](./png)
 
 Raster image formats optimized for digital applications:
 
-- **app/**—App icons in original and compressed-optimized variants (128–2048 px)
-- **hires/**—Highest resolution version (2924 px) with three color variants: black, white, and transparent backgrounds
-- **web/**—Web-optimized version (200–1200 px)
+- **app/** — App icons in original and compressed-optimized variants (128–2048 px)
+- **hires/** — Highest resolution version (2924 px) with three color variants: black, white, and transparent backgrounds
+- **web/** — Web-optimized version (200–1200 px)
 
 ### [svg/](./svg)
 
 Vector format supporting unlimited lossless scalability, available in multiple design variants:
 
-- **logo-abstract.svg**—Abstract minimalist variant that preserves the core shape and symbolism, abstracted for versatility across different use cases
-- **logo-detailed-black.svg**—High-fidelity black variant converted from `png/hires/logo-black-2924.png`; larger file size and may exhibit conversion artifacts at extreme zoom levels
-- **logo-detailed-transparent.svg**—High-fidelity transparent background variant converted from `png/hires/logo-transparent-2924.png`; larger file size and may exhibit conversion artifacts at extreme zoom levels
-- **logo-outline-black.svg**—Black outline variant containing only the M shape; ideal for minimalist modern design
-- **logo-outline-gray.svg**—Gray outline variant containing only the M shape; designed for light background themes
-- **logo-outline-stroke.svg**—Stroke-only variant with hollow design; suitable for scenarios requiring visual transparency
+- **logo-abstract.svg** — Abstract minimalist variant that preserves the core shape and symbolism, abstracted for versatility across different use cases
+- **logo-detailed-black.svg** — High-fidelity black variant converted from `png/hires/logo-black-2924.png`; larger file size and may exhibit conversion artifacts at extreme zoom levels
+- **logo-detailed-transparent.svg** — High-fidelity transparent background variant converted from `png/hires/logo-transparent-2924.png`; larger file size and may exhibit conversion artifacts at extreme zoom levels
+- **logo-outline-black.svg** — Black outline variant containing only the M shape; ideal for minimalist modern design
+- **logo-outline-gray.svg** — Gray outline variant containing only the M shape; designed for light background themes
+- **logo-outline-stroke.svg** — Stroke-only variant with hollow design; suitable for scenarios requiring visual transparency
 
 ### [source/](./source)
 
