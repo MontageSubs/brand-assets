@@ -73,7 +73,7 @@
 
 ### [source/](./source)
 
-原始资源和许可证文档。包含摄影师 Zacharie Elbaz 的原始作品（original.png）、源文件说明和许可证信息。
+原始资源和许可证文档。包含摄影师 Zacharie Elbaz 的原始作品（original.jpg）、源文件说明和许可证信息。
 
 ## 许可证
 
