@@ -8,8 +8,6 @@
 
 </div><br/>
 
-<div align="center">
-
 本项目的 logo 源自 Unsplash 平台上的一张街头摄影作品。
 
 | 信息 | 详情 |
