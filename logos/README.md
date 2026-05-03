@@ -24,7 +24,7 @@ This directory contains the organizational logo of MontageSubs in multiple forma
 
 MontageSubs is a **non-profit online subtitle community** founded in August 2025, dedicated to connecting filmmakers, subtitle creators, and audiences worldwide. Our logo draws inspiration from the iconic Paris Metro entrance signage. The distinctive yellow M letterbox was adopted by RATP (Régie Autonome des Transports Parisiens) in the 1970s [[1]](https://www.ratp.fr/en/discover/coulisses/daily-life/do-you-know-how-paris-metro-signposts-have-evolved) and, due to its minimalist design, is now in the public domain.
 
-Photographer [Zacharie Elbaz](https://unsplash.com/@zachlba) captured this image on the streets of Paris on October 22, 2024, and shared it on [Unsplash](https://unsplash.com/photos/the-letter-m-is-lit-up-in-the-dark-GejUCxKwAUw) under the [Unsplash License](./source/LICENSE.md). The original work is preserved in the [source directory](./source). Founder Xiaop adapted this image as the community avatar in late September 2025, and completed comprehensive optimization on May 3, 2026, including precise cropping, noise reduction, detail enhancement, background refinement, vectorization, and multi-color variants.
+Photographer [Zacharie Elbaz](https://unsplash.com/@zachlba) captured this image on the streets of Paris on October 22, 2024, and shared it on [Unsplash](https://unsplash.com/photos/the-letter-m-is-lit-up-in-the-dark-GejUCxKwAUw) under the [Unsplash License](./source/LICENSE.md). The original work is preserved in the [source directory](./source). Founder Meow P adapted this image as the community avatar in late September 2025, and completed comprehensive optimization on May 3, 2026, including precise cropping, noise reduction, detail enhancement, background refinement, vectorization, and multi-color variants.
 
 This street photography perfectly embodies MontageSubs' brand identity:
 
@@ -73,7 +73,7 @@ Original assets and license documentation, including photographer Zacharie Elbaz
 
 Content in the **`source/` directory** is licensed under the [Unsplash License](./source/LICENSE.md).
 
-All files in this directory **except those in `source/`** are licensed under [**CC BY-NC-SA 4.0**](./LICENSE.md). You are free to share and adapt these works provided you give attribution, use them non-commercially, and apply the same license to derivative works. See the [license file](./LICENSE.md) for full details.
+All files in this directory **except those in `source/`** are licensed under [**CC BY-NC-SA 4.0**](./LICENSE). You are free to share and adapt these works provided you give attribution, use them non-commercially, and apply the same license to derivative works. See the [license file](./LICENSE) for full details.
 
 
 ---
