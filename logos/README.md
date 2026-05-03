@@ -74,7 +74,7 @@ Vector format supporting unlimited lossless scalability, available in multiple d
 
 ### [source/](./source)
 
-Original assets and license documentation, including photographer Zacharie Elbaz's original work (original.png), source file notes, and license information.
+Original assets and license documentation, including photographer Zacharie Elbaz's original work (original.jpg), source file notes, and license information.
 
 ## License
 
