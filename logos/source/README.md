@@ -1,5 +1,10 @@
 # MontageSubs Logo Original Photography
 
+<div align="center">
+  <img src="original.jpg" alt="Yellow letter M on black background." width=150">
+  <p>The letter m is lit up in the dark</p>
+</div>
+
 ## Original Source
 
 <div align="right">
@@ -41,7 +46,7 @@ The original photograph has been processed in the following ways to serve as the
 
 ## License
 
-This logo is based on the original photograph and is released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. Significantly modified versions can be used freely without mandatory attribution to the original photographer.
+This logo is based on the original photograph and is released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. Works can be modified freely without attribution to the original photographer.
 
 For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file.
 
