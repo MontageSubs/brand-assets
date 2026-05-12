@@ -1,8 +1,8 @@
 # MontageSubs Social Media Header Original Photography
 
 <div align="center">
-  <img src="original.jpg" alt="Black and white photograph. Silhouette of a man in front of cinema screen with Chinese and English subtitles." width=400">
-  <p>Black and white photograph. Silhouette of a man in front of cinema screen with Chinese and English subtitles.</p>
+  <img src="original.jpg" alt="Silhouette of man in front of cinema screen with Chinese and English subtitles." width=400">
+  <p>A Man Sitting in Front of a Projection on a Wall</p>
 </div>
 
 ## Original Source
