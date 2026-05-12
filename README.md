@@ -36,13 +36,12 @@ All assets in this repository are distributed under the licenses specified in th
 
 We welcome feedback and suggestions from our community. For questions, suggestions, or issues, please open an [Issue](https://github.com/MontageSubs/brand-assets/issues).
 
+
 ---
 
 <div align="center">
 
-**MontageSubs**  
-*Connecting Filmmakers, Creators, and Audiences Worldwide*
-
-"Powered by Love ❤️"
+**MontageSubs (蒙太奇字幕组)**  
+"Powered by Love ❤️ 用爱发电"
 
 </div>
