@@ -1,5 +1,10 @@
 # MontageSubs Social Media Header Original Photography
 
+<div align="center">
+  <img src="original.jpg" alt="Black and white photograph. Silhouette of a man in front of cinema screen with Chinese and English subtitles." width=400">
+  <p>Black and white photograph. Silhouette of a man in front of cinema screen with Chinese and English subtitles.</p>
+</div>
+
 ## Original Source
 
 <div align="right">
@@ -54,7 +59,7 @@ The original photograph has been processed in the following ways to serve as soc
 
 ## License
 
-This social media header is based on the original photograph and released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. Significantly modified works can be used freely without mandatory attribution to the original photographer.
+This social media header is based on the original photograph and released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. Works can be modified freely without attribution to the original photographer.
 
 For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file.
 
