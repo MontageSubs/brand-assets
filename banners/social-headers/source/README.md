@@ -4,7 +4,7 @@
 
 <div align="right">
 
-**[中文](./README.md) | English**
+**[中文](./README.zh-hans.md) | English**
 
 </div><br/>
 
