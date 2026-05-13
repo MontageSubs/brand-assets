@@ -59,7 +59,7 @@ The original photograph has been processed in the following ways to serve as soc
 
 ## License
 
-This social media header is based on the original photograph and released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. Works can be modified freely without attribution to the original photographer.
+This work is released under the Unsplash License. According to this license, it can be freely used and modified for both commercial and non-commercial purposes without prior permission or attribution to the original photographer.
 
 For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file.
 
