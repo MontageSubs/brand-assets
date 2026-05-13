@@ -46,7 +46,7 @@ The original photograph has been processed in the following ways to serve as the
 
 ## License
 
-This logo is based on the original photograph and is released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. Works can be modified freely without attribution to the original photographer.
+This work is released under the Unsplash License. According to this license, the original photographic work can be freely used for both commercial and non-commercial purposes without prior permission. The work can be freely modified without attribution to the original photographer.
 
 For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file.
 
