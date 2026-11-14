@@ -54,7 +54,7 @@ For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file
 
 <div align="center">
 
-**MontageSubs (蒙太奇字幕组)**  
+**MontageSubs (蒙太奇字幕社区)**  
 "Powered by Love ❤️ 用爱发电"
 
 </div>

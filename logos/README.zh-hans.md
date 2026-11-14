@@ -1,6 +1,6 @@
 # Logos
 
-蒙太奇字幕组（MontageSubs）的标志及各版本资源。
+蒙太奇字幕社区（MontageSubs）的标志及各版本资源。
 
 <div align="right">
 
@@ -10,70 +10,124 @@
 
 <div align="center">
 
-![MontageSubs Logo](./png/app/rounded/compressed/logo-128.png)
+<img src="./abstract/png/app/rounded/logo-128.png" alt="MontageSubs 抽象版 Logo" width="128" height="128">&nbsp;&nbsp;&nbsp;<img src="./photo/png/app/rounded/compressed/logo-128.png" alt="MontageSubs 照片版 Logo" width="128" height="128">
+
+抽象版 · 照片版
 
 </div><br/>
 
-本目录存放蒙太奇字幕组的组织标志及其多种格式变体和版本，供社区成员、贡献者和外部合作伙伴使用。
+本目录存放蒙太奇字幕社区的组织标志，提供两种视觉风格和多种格式，供社区成员、贡献者和外部合作伙伴使用。
+
+## 两种风格
+
+| | **抽象版（abstract）** | **照片版（photo）** |
+|---|---|---|
+| 外观 | 扁平的双色 M，墨黑 `#0E0B07` 与黄色 `#FBC100`，没有渐变和纹理 | 原始霓虹街头摄影，带有光晕、质感与层次 |
+| 适合 | 网站图标、应用图标、小尺寸、界面，以及一切需要保持清晰的场景 | 大幅展示、主视觉、海报、印刷 |
+| 矢量 | 单一路径，约 50 个节点，不到 2 KB | 对照片的海报化描摹，约 140 KB |
+| 目录 | [abstract/](./abstract) | [photo/](./photo) |
+
+两种风格采用相同的目录结构，切换风格只需替换路径中的一个文件夹名。
 
 ## 快速参考
 
-| 用途 | 推荐格式 | 尺寸范围 | 路径 |
-|------|---------|---------|------|
-| 网站 favicon | PNG | 16–256 px | [favicon/](./favicon) |
-| 应用图标 | PNG | 128–2048 px | [png/app/](./png/app) |
-| 社交媒体、网页 | PNG 或 SVG | 200–1200 px | [png/web/](./png/web) 或 [svg/](./svg) |
-| 高质量印刷或大幅展示 | SVG 或高分辨率 PNG | 2924 px | [svg/](./svg) 或 [png/hires/](./png/hires) |
-| 缩放无限制 | SVG | 任意 | [svg/](./svg) |
+| 用途 | 推荐 | 尺寸范围 | 路径 |
+|------|------|---------|------|
+| 网站 favicon | 抽象版，ICO、PNG 或 SVG | 16–256 px | [abstract/favicon/](./abstract/favicon) 或 [abstract/svg/favicon.svg](./abstract/svg/favicon.svg) |
+| 应用图标（iOS、Android、桌面） | 抽象版，PNG | 128–2048 px | [abstract/png/app/](./abstract/png/app) |
+| 可安装网页应用（maskable） | 抽象版，PNG | 192、512 px | [abstract/png/app/maskable/](./abstract/png/app/maskable) |
+| 社交媒体、网页 | PNG 或 SVG | 200–1200 px | [abstract/png/web/](./abstract/png/web) 或 [svg/](./abstract/svg) |
+| 高质量印刷或大幅展示 | 照片版，高分辨率 PNG | 2924 px | [photo/png/hires/](./photo/png/hires) |
+| 缩放无限制 | SVG | 任意 | [abstract/svg/](./abstract/svg) 或 [photo/svg/](./photo/svg) |
 
 ## 选择建议
 
-**PNG 格式**提供高保真的视觉效果，适合尺寸已确定的应用场景。**SVG 格式**支持任意无损缩放，适合响应式设计、动态应用和需要灵活适配的场景。如无特殊要求，建议优先采用 PNG 版本。
+**先选风格。** Logo 尺寸较小、需要一眼识别时用**抽象版**；有足够空间展现光晕与质感时用**照片版**。
+
+**再选格式。** **PNG** 提供高保真的视觉效果，适合尺寸已确定的应用场景。**SVG** 支持任意无损缩放，适合响应式设计和需要灵活适配的场景。照片版的 SVG 是简化后的矢量近似，对保真度要求最高时请优先使用 PNG。
 
 ## Logo 背景故事
 
-蒙太奇字幕组是一个**非营利性的在线字幕社区**，成立于 2025 年 8 月，致力于连接影视创作者、字幕创作者与全球观众。本 Logo 最初源于巴黎地铁入口标志系统。黄色 M 灯箱由 RATP（巴黎大众运输公司）于 1970 年代采用 [[1]](https://www.ratp.fr/en/discover/coulisses/daily-life/do-you-know-how-paris-metro-signposts-have-evolved)。根据 Wikimedia Commons 的版权说明，该符号未达到版权保护所要求的原创性阈值 [[2]](https://commons.wikimedia.org/wiki/File:Metro-M.svg)。
+蒙太奇字幕社区是一个**非营利性的在线社区**，成立于 2025 年 8 月，致力于连接影视创作者、字幕创作者与全球观众。本 Logo 最初源于巴黎地铁入口标志系统。黄色 M 灯箱由 RATP（巴黎大众运输公司）于 1970 年代采用 [[1]](https://www.ratp.fr/en/discover/coulisses/daily-life/do-you-know-how-paris-metro-signposts-have-evolved)。根据 Wikimedia Commons 的版权说明，该符号未达到版权保护所要求的原创性阈值 [[2]](https://commons.wikimedia.org/wiki/File:Metro-M.svg)。
 
-摄影师 [Zacharie Elbaz](https://unsplash.com/@zachlba) 于 2024 年 10 月 22 日在巴黎街头拍摄了这张作品，发布在 [Unsplash](https://unsplash.com/photos/the-letter-m-is-lit-up-in-the-dark-GejUCxKwAUw)，采用 [Unsplash License](./source/LICENSE.md)。原始作品保存在 [source 目录](./source)。创始人小 p 于 2025 年 9 月下旬将该作品裁剪后用作社群头像，并于 2026 年 5 月 3 日进行了完整优化处理，包括精细裁剪、降噪修复、细节提升、背景处理、矢量化和多色版本等工作。
+摄影师 [Zacharie Elbaz](https://unsplash.com/@zachlba) 于 2024 年 10 月 22 日在巴黎街头拍摄了这张作品，发布在 [Unsplash](https://unsplash.com/photos/the-letter-m-is-lit-up-in-the-dark-GejUCxKwAUw)，采用 [Unsplash License](./source/LICENSE.md)。原始作品保存在 [source 目录](./source)。创始人小 p 于 2025 年 9 月下旬将该作品裁剪后用作社区头像，并于 2026 年 5 月 3 日进行了完整优化处理，包括精细裁剪、降噪修复、细节提升、背景处理、矢量化和多色版本等工作。
 
-这张街头摄影作品完美诠释了蒙太奇字幕组的品牌定位：
+这张街头摄影作品完美诠释了蒙太奇字幕社区的品牌定位：
 
 - **M** 代表 Montage（蒙太奇）的首字母，隐含 Movie（电影）的含义
 - **黄色霓虹** 象征光影在黑暗中的绽放，寓意字幕的价值与意义
 - **黑色背景** 具有电影感与专业氛围，体现影视制作的专业性
-- **霓虹美学** 呈现独特的艺术张力，赋予组织强烈的视觉个性
+- **霓虹美学** 呈现独特的艺术张力，赋予社区强烈的视觉个性
+
+**抽象版**保留了同一个倾斜、手绘感的 M，并把它精简到本质：一个形状，两种颜色。它能在 16 像素下依然清晰，也能自然融入各种界面；**照片版**则承载着原始影像的氛围。
 
 ## 目录说明
 
-### [favicon/](./favicon)
+```
+logos/
+├── abstract/
+│   ├── favicon/   opaque · rounded · transparent   (ico, png)
+│   ├── png/       app (rounded, square, maskable) · hires · web
+│   └── svg/
+├── photo/
+│   ├── favicon/   opaque · transparent             (ico, png)
+│   ├── png/       app (rounded, square，各含 compressed/) · hires · web
+│   └── svg/
+└── source/
+```
 
-浏览器标签页图标，包含两个版本系列：
+### abstract/
 
-- **default/**：带白色背景的标准版本（16–256 px，ICO 和 PNG 格式）
-- **transparent/**：透明背景版本（16–256 px，ICO 和 PNG 格式）
+- **favicon/**：浏览器标签页图标，16–256 px，提供 ICO 和 PNG。`opaque/` 为纯墨黑背景的直角版本，`rounded/` 为带透明圆角的圆角版本，`transparent/` 仅保留黄色 M。每个 ICO 目录中还有 `favicon.ico`，包含 16、32、48 px 三种尺寸，适用于经典的 `/favicon.ico` 位置。
+- **png/app/**：应用图标，128–2048 px。`rounded/` 带透明圆角，`square/` 为满铺版本，适用于由平台自行施加遮罩的场景，`maskable/`（192 与 512 px）把 M 保持在安全区之内，用于自适应图标。
+- **png/hires/**：最高分辨率（2924 px），包含 `logo-black-2924.png`、`logo-white-2924.png` 和 `logo-transparent-2924.png` 三个变体。
+- **png/web/**：网页用途版本，200–1200 px。
+- **svg/**：矢量图：
+  - `logo-yellow-on-ink.svg`：主稿，黄色 M 置于方形墨黑背景上。
+  - `logo-yellow.svg`：透明背景的黄色 M。
+  - `logo-ink.svg`：透明背景的墨黑 M，适用于浅色底。
+  - `favicon.svg`：为标签页尺寸裁切的圆角版本。
 
-### [png/](./png)
+### photo/
 
-栅格图像格式的 Logo，适用于数字应用场景，已优化处理：
+- **favicon/**：浏览器标签页图标，16–256 px，提供 ICO 和 PNG。`opaque/` 为纯黑背景，`transparent/` 为透明背景。
+- **png/app/**：应用图标，128–2048 px，包含 `rounded/` 与 `square/` 两个版本，各自带有 `compressed/` 目录，存放调色板优化后的文件。
+- **png/hires/**：最高分辨率（2924 px），包含黑色、白色、透明背景三个变体。
+- **png/web/**：网页用途版本，200–1200 px。
+- **svg/**：矢量图：
+  - `logo-gradient.svg`：渐变矢量版本，保留照片的核心形状与色彩。
+  - `logo-detailed-black.svg`：由 `png/hires/logo-black-2924.png` 描摹得到的海报化矢量版本，约 23 种颜色。
+  - `logo-detailed-transparent.svg`：同一描摹的透明背景版本，来自 `png/hires/logo-transparent-2924.png`。
+  - `logo-outline-black.svg`：黑色轮廓版本，仅保留 M 形状。
+  - `logo-outline-gray.svg`：灰色轮廓版本，适合浅色背景主题。
+  - `logo-outline-stroke.svg`：纯描边的中空版本。
 
-- **app/**：应用图标，包含原始版本和压缩优化版本（128–2048 px）
-- **hires/**：最高分辨率版本（2924 px），包含黑色、白色、透明背景三个颜色变体
-- **web/**：网页用途版本（200–1200 px）
-
-### [svg/](./svg)
-
-矢量图格式，支持无损缩放，提供以下多种设计变体：
-
-- **logo-abstract.svg**：抽象简化版本，保留标志的核心形状与寓意，经过抽象化处理以适应多种应用场景
-- **logo-detailed-black.svg**：黑色高保真版本，由位图 `png/hires/logo-black-2924.png` 转换而来，文件体积较大，在极端缩放下可能显示转换伪影
-- **logo-detailed-transparent.svg**：透明背景高保真版本，由位图 `png/hires/logo-transparent-2924.png` 转换而来，文件体积较大，在极端缩放下可能显示转换伪影
-- **logo-outline-black.svg**：黑色轮廓版本，仅保留 M 形状，适合现代极简设计
-- **logo-outline-gray.svg**：灰色轮廓版本，仅保留 M 形状，专为浅色背景主题设计
-- **logo-outline-stroke.svg**：纯描边版本，采用中空设计，适合需要视觉穿透效果的应用场景
-
-### [source/](./source)
+### source/
 
 原始资源和许可证文档。包含摄影师 Zacharie Elbaz 的原始作品（original.jpg）、源文件说明和许可证信息。
+
+## 设计说明
+
+抽象版的 favicon 使用两种裁切，以便在各种尺寸下都清晰易读。16 和 32 px 时，M 约占画块高度的 88%，因为小尺寸需要用尽每一个像素；从 48 px 起，M 约占 75%，使整个 M 都落在搜索引擎和手机启动器使用的圆形与圆角遮罩之内。Maskable 图标则把 M 保持在自适应图标遮罩所保证的中央圆形区域内。
+
+| 颜色 | 色值 |
+|------|------|
+| 墨黑 | `#0E0B07` |
+| 黄色 | `#FBC100` |
+
+## 目录变更
+
+早期版本只在顶层放置一种风格。如果你曾按路径引用文件，请对照下表查找。
+
+| 原路径 | 现路径 |
+|--------|--------|
+| `favicon/default/` | `photo/favicon/opaque/` |
+| `favicon/transparent/` | `photo/favicon/transparent/` |
+| `png/` | `photo/png/` |
+| `svg/logo-abstract.svg` | `photo/svg/logo-gradient.svg` |
+| `svg/logo-detailed-*.svg`、`svg/logo-outline-*.svg` | `photo/svg/` |
+
+"abstract" 这个名称现在指代扁平风格。原先的 `logo-abstract.svg` 实际上是照片的渐变矢量版本，因此改名为 `logo-gradient.svg`。
 
 ## 许可证
 
@@ -85,7 +139,7 @@
 
 <div align="center">
 
-**蒙太奇字幕组 (MontageSubs)**  
+**蒙太奇字幕社区 (MontageSubs)**  
 "用爱发电 ❤️ Powered by Love"
 
 </div>
