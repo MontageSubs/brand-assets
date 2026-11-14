@@ -82,12 +82,12 @@ logos/
 - **png/app/** — App icons, 128–2048 px. `rounded/` has transparent corners, `square/` is full-bleed for platforms that apply their own mask, and `maskable/` (192 and 512 px) keeps the M inside the safe zone for adaptive icons.
 - **png/hires/** — Highest resolution (2924 px) in three variants: `logo-black-2924.png`, `logo-white-2924.png` and `logo-transparent-2924.png`.
 - **png/web/** — Web-optimised versions, 200–1200 px.
-- **png/watermark/** — The yellow M with a soft drop shadow on a transparent background (256, 512 and 1024 px), for use as an on-screen video watermark.
+- **png/watermark/** — The yellow M with a subtle drop shadow on a transparent background (256, 512 and 1024 px), for use as an on-screen video watermark.
 - **svg/** — Vector files:
   - `logo-yellow-on-ink.svg` — The master: yellow M on a square ink background.
   - `logo-yellow.svg` — Yellow M on a transparent background.
   - `logo-ink.svg` — Ink M on a transparent background, for light surfaces.
-  - `logo-yellow-shadow.svg` — Yellow M with a soft drop shadow, for use as a video watermark (also known as a video bug).
+  - `logo-yellow-shadow.svg` — Yellow M with a subtle drop shadow, for use as a video watermark (also known as a video bug).
   - `favicon.svg` — Rounded tile cropped for tab-sized display.
 
 ### photo/
@@ -147,6 +147,6 @@ All files in this directory **except those in `source/`** are licensed under [**
 <div align="center">
 
 **MontageSubs**  
-Powered by Love ❤
+"Powered by Love ❤"
 
 </div>

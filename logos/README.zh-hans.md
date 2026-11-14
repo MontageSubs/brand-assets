@@ -82,12 +82,12 @@ logos/
 - **png/app/**：应用图标，128–2048 px。`rounded/` 带透明圆角，`square/` 为满铺版本，适用于由平台自行施加遮罩的场景，`maskable/`（192 与 512 px）把 M 保持在安全区之内，用于自适应图标。
 - **png/hires/**：最高分辨率（2924 px），包含 `logo-black-2924.png`、`logo-white-2924.png` 和 `logo-transparent-2924.png` 三个变体。
 - **png/web/**：网页用途版本，200–1200 px。
-- **png/watermark/**：透明背景上带柔和投影的黄色 M（256、512、1024 px），用作视频画面水印。
+- **png/watermark/**：透明背景上带轻微投影的黄色 M（256、512、1024 px），用作视频画面水印。
 - **svg/**：矢量图：
   - `logo-yellow-on-ink.svg`：主稿，黄色 M 置于方形墨黑背景上。
   - `logo-yellow.svg`：透明背景的黄色 M。
   - `logo-ink.svg`：透明背景的墨黑 M，适用于浅色底。
-  - `logo-yellow-shadow.svg`：带柔和投影的黄色 M，用作视频水印（即 video bug）。
+  - `logo-yellow-shadow.svg`：带轻微投影的黄色 M，用作视频水印（即 video bug）。
   - `favicon.svg`：为标签页尺寸裁切的圆角版本。
 
 ### photo/
