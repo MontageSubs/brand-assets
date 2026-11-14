@@ -10,9 +10,9 @@ Official Brand Assets & Creative Resources
 
 <div align="center">
 
-<img src="./logos/abstract/png/app/rounded/logo-128.png" alt="MontageSubs abstract logo" width="128" height="128">&nbsp;&nbsp;&nbsp;<img src="./logos/photo/png/app/rounded/compressed/logo-128.png" alt="MontageSubs photo logo" width="128" height="128">
+<img src="./logos/flat/png/app/rounded/logo-128.png" alt="MontageSubs flat logo" width="128" height="128">&nbsp;&nbsp;&nbsp;<img src="./logos/photo/png/app/rounded/compressed/logo-128.png" alt="MontageSubs photo logo" width="128" height="128">
 
-Abstract · Photo
+Flat · Photo
 
 </div><br/>
 
@@ -25,7 +25,7 @@ This repository contains logos, social media assets, and visual design resources
 ## Repository Structure
 
 ### [Logos](./logos/)
-Official brand logos in two visual styles, **abstract** (flat ink and yellow) and **photo** (the original neon photograph), each in multiple formats (PNG, ICO, SVG) and resolutions. Suitable for websites, applications, social media, and print materials. Includes design guidelines and usage recommendations.
+Official brand logos in two visual styles, **flat** (solid ink and yellow) and **photo** (the original neon photograph), each in multiple formats (PNG, ICO, SVG) and resolutions. Suitable for websites, applications, social media, and print materials. Includes design guidelines and usage recommendations.
 
 ### [Banners](./banners/)
 Source photography and attribution for the community's social media headers.
@@ -43,7 +43,7 @@ We welcome feedback and suggestions from our community. For questions, suggestio
 
 <div align="center">
 
-**MontageSubs (蒙太奇字幕社区)**  
-"Powered by Love ❤️ 用爱发电"
+**MontageSubs**  
+"Powered by Love ❤"
 
 </div>

@@ -36,15 +36,12 @@ This is a profoundly philosophical black-and-white photograph that perfectly emb
 
 ## Poetry on the Screen
 
-The bilingual poetry projected on the screen reads:
+The poetry projected on the screen appears in Chinese and English. The English lines read:
 
-**Chinese:**
-> 美丽，闪烁的微光，
-> 唯有光彩才能跃入你的眼帘
-
-**English:**
 > Oh beauty, glimmer of light,
 > only you reveal splendor to the eye
+
+The Chinese lines are quoted in the [Chinese edition](./README.zh-hans.md) of this document.
 
 This verse is said to echo the literary sensibility of British Romantic poet George Gordon Byron, though its precise origin remains obscure in readily available sources. The poem captures the essence of beauty with elegant simplicity—a fleeting glimmer amid light and shadow, revealed only through perception and understanding. This resonates deeply with MontageSubs' mission: through translation and subtitles, we enable every viewer to discover and appreciate the artistic value of works across different languages and cultures.
 
@@ -67,7 +64,7 @@ For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file
 
 <div align="center">
 
-**MontageSubs (蒙太奇字幕社区)**  
-"Powered by Love ❤️ 用爱发电"
+**MontageSubs**  
+"Powered by Love ❤"
 
 </div>

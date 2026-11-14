@@ -11,9 +11,9 @@
 
 <div align="center">
 
-<img src="./logos/abstract/png/app/rounded/logo-128.png" alt="MontageSubs 抽象版 Logo" width="128" height="128">&nbsp;&nbsp;&nbsp;<img src="./logos/photo/png/app/rounded/compressed/logo-128.png" alt="MontageSubs 照片版 Logo" width="128" height="128">
+<img src="./logos/flat/png/app/rounded/logo-128.png" alt="MontageSubs 扁平版 Logo" width="128" height="128">&nbsp;&nbsp;&nbsp;<img src="./logos/photo/png/app/rounded/compressed/logo-128.png" alt="MontageSubs 照片版 Logo" width="128" height="128">
 
-抽象版 · 照片版
+扁平版 · 照片版
 
 </div><br/>
 
@@ -26,7 +26,7 @@
 ## 目录结构
 
 ### [Logos](./logos/)
-组织官方 Logo 资源，提供**抽象版**（纯色墨黑与黄色）和**照片版**（原始霓虹摄影）两种视觉风格，每种风格均包含多种格式（PNG、ICO、SVG）和分辨率。适用于网站、应用、社交媒体和印刷用途。
+组织官方 Logo 资源，提供**扁平版**（纯色墨黑与黄色）和**照片版**（原始霓虹摄影）两种视觉风格，每种风格均包含多种格式（PNG、ICO、SVG）和分辨率。适用于网站、应用、社交媒体和印刷用途。
 
 ### [Banners](./banners/)
 社区社交媒体头图的原始摄影作品与署名信息。
