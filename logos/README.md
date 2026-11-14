@@ -147,6 +147,6 @@ All files in this directory **except those in `source/`** are licensed under [**
 <div align="center">
 
 **MontageSubs**  
-"Powered by Love ❤"
+Powered by Love ❤
 
 </div>

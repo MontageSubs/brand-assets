@@ -44,6 +44,6 @@ We welcome feedback and suggestions from our community. For questions, suggestio
 <div align="center">
 
 **MontageSubs**  
-"Powered by Love ❤"
+Powered by Love ❤
 
 </div>

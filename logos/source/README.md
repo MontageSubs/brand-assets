@@ -55,7 +55,7 @@ For the complete license terms, please refer to the [LICENSE](./LICENSE.md) file
 <div align="center">
 
 **MontageSubs**  
-"Powered by Love ❤"
+Powered by Love ❤
 
 </div>
 
